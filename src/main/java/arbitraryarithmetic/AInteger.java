@@ -1,7 +1,5 @@
 package arbitraryarithmetic;
 
-import java.util.concurrent.atomic.AtomicInteger;
-
 public class AInteger {
     private String value;
 
